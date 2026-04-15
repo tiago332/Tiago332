@@ -3,16 +3,6 @@
 
 Me chamo Tiago dos Santos, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio, Vou cursar na Fiap Engenharia de Software. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube.
 
-<p
-    <a href="https:https://github.com/tiago332)">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
